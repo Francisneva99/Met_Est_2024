@@ -42,3 +42,7 @@ Repositorio del curso de Métodos Estadísticos Agosto-Diciembre 2024 del progra
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a:
 ### 💬 ig: yourx_francisco 
 
+## 📸 Gráfica de contribución 
+![Grafica de contribución](https://github.com/user-attachments/assets/cabf46f7-2d7b-48a3-bc01-cd834b77f93d)
+
+
