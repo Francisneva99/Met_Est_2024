@@ -14,7 +14,7 @@ Repositorio del curso de Métodos Estadísticos Agosto-Diciembre 2024 del progra
 ### 📂 Examenes: examenes realizados durante el curso 
 ### 📂 LaBORATORIOS: laboratorios del curso  
 ### 📂 PRACTICA: ejercio de practica para examen 
-### 📂 SCRIPTS: scripts realizados durate 
+### 📂 SCRIPTS: scripts realizados durante el curso 
 ### 📂 TAREAS: tareas del curso 
 
 ## Contenido🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂 
