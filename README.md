@@ -1,19 +1,23 @@
-#🌱 FACULTAD DE CIENCIAS FORESTALES🍃 
-#💻 Curso Métodos Esradísticos 
-##✨Francisco  Javier Herrera Nevarez- Ingeniería Forestal 
+# 🌱 FACULTAD DE CIENCIAS FORESTALES🍃 
+
+# 💻 Curso Métodos Esradísticos 
+
+## ✨Francisco  Javier Herrera Nevarez- Ingeniería Forestal 
+
 ## Descripcion: 
 Repositorio del curso de Métodos Estadísticos Agosto-Diciembre 2024 del programa de Ingeniero Forestal.Este repositorio contiene los materiales, ejercicios y proyectos de Estadística correspondientes al tercer semestre de la carrera de Ingeniería Forestal.   
 
-##📚Estructura 
-###📂 Base de datos: bases de datos utilizadas durante el curso 
-###📂 Clase: ejercicios realizados en clase 
-###📂 Examenes: examenes realizados durante el curso 
-###📂 LaBORATORIOS: laboratorios del curso  
-###📂 PRACTICA: ejercio de practica para examen 
-###📂 SCRIPTS: scripts realizados durate 
-###📂 TAREAS: tareas del curso 
+## 📚Estructura 
 
-## Contenido🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂 
+### 📂 Base de datos: bases de datos utilizadas durante el curso 
+### 📂 Clase: ejercicios realizados en clase 
+### 📂 Examenes: examenes realizados durante el curso 
+### 📂 LaBORATORIOS: laboratorios del curso  
+### 📂 PRACTICA: ejercio de practica para examen 
+### 📂 SCRIPTS: scripts realizados durate 
+### 📂 TAREAS: tareas del curso 
+
+## Contenido🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂 
 
 * 📅Semana 1: Introducción al cursos de Métodos Estadísticos. 
 * 📅Semana 2: Crear nuestra cuenta de Github (Francisneva99) así como el primer repositorio.
@@ -35,6 +39,6 @@ Repositorio del curso de Métodos Estadísticos Agosto-Diciembre 2024 del progra
 * 💡Semana 18: Se presentó el examen final sobre ANOVA y Tukey. 📝
 
 ## 📧 CONTACTO 
-###Si tienes alguna pregunta o sugerencia, no dudes en contactarme a:
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a:
 ### 💬 ig: yourx_francisco 
 
