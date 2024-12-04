@@ -1,10 +1,10 @@
 # 🌱 FACULTAD DE CIENCIAS FORESTALES🍃 
 
-# 💻 Curso Métodos Estadísticos 
+# 💻 Curso: Métodos Estadísticos 
 
 ## ✨Francisco  Javier Herrera Nevarez- Ingeniería Forestal 
 
-## Descripcion: 
+## Descripción: 
 Repositorio del curso de Métodos Estadísticos Agosto-Diciembre 2024 del programa de Ingeniero Forestal.Este repositorio contiene los materiales, ejercicios y proyectos de Estadística correspondientes al tercer semestre de la carrera de Ingeniería Forestal.   
 
 ## 📚Estructura 
@@ -17,7 +17,7 @@ Repositorio del curso de Métodos Estadísticos Agosto-Diciembre 2024 del progra
 ### 📂 SCRIPTS: scripts realizados durante el curso 
 ### 📂 TAREAS: tareas del curso 
 
-## Contenido🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂 
+## Contenido🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂🍂 
 
 * 📅Semana 1: Introducción al cursos de Métodos Estadísticos. 
 * 📅Semana 2: Crear nuestra cuenta de Github (Francisneva99) así como el primer repositorio.
