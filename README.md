@@ -44,5 +44,6 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme a:
 
 ## 📸 Gráfica de contribución 
 ![Grafica de contribución](https://github.com/user-attachments/assets/cabf46f7-2d7b-48a3-bc01-cd834b77f93d)
+![Captura](https://github.com/user-attachments/assets/066887bd-9ac3-4dee-be39-6a5e1d610e1e)
 
 
