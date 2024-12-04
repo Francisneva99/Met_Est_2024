@@ -1,6 +1,6 @@
 # 🌱 FACULTAD DE CIENCIAS FORESTALES🍃 
 
-# 💻 Curso Métodos Esradísticos 
+# 💻 Curso Métodos Estadísticos 
 
 ## ✨Francisco  Javier Herrera Nevarez- Ingeniería Forestal 
 
@@ -12,7 +12,7 @@ Repositorio del curso de Métodos Estadísticos Agosto-Diciembre 2024 del progra
 ### 📂 Base de datos: bases de datos utilizadas durante el curso 
 ### 📂 Clase: ejercicios realizados en clase 
 ### 📂 Examenes: examenes realizados durante el curso 
-### 📂 LaBORATORIOS: laboratorios del curso  
+### 📂 LABORATORIOS: laboratorios del curso  
 ### 📂 PRACTICA: ejercio de practica para examen 
 ### 📂 SCRIPTS: scripts realizados durante el curso 
 ### 📂 TAREAS: tareas del curso 
